@@ -62,3 +62,25 @@ streamlit run app/app.py
 ```
 
 A new window on your web browser should automatically appear, with the app ready to be used. To stop the app, simply press CTR+C on the terminal. A message of "stopping" will appear, and the app will shutdown
+
+Target Performance
+Accuracy: F1 score > 0.7 on test queries
+
+Response Time: < 2 seconds average
+
+Scalability: Handle 100+ documents efficiently
+
+Memory: Effective context retention across sessions
+
+Learning: Demonstrable improvement from feedback
+
+Evaluation Metrics
+SQUAD 2.0 evaluation (F1, Exact Match)
+
+COQA conversational coherence
+
+Response time benchmarking
+
+Memory usage profiling
+
+User satisfaction tracking
